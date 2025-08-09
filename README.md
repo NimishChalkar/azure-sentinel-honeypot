@@ -28,7 +28,9 @@ In just **24 hours**, the honeypot recorded hundreds of login attempts from mult
   - Username attempted
   - Attacker IP
   - Geolocation (via ipgeolocation.io API)
+
     ![Logs](images/RDP failed logins.png)
+    
 - Saved data to `.log` file.
 
 ### 3. Forward Logs to Azure
@@ -36,7 +38,7 @@ In just **24 hours**, the honeypot recorded hundreds of login attempts from mult
 
 ### 4. Integrate with Sentinel
 - Connected Log Analytics to **Microsoft Sentinel**.
-- Created **custom workbook** to display attacks on a global map.
+- Created **custom workbook** to visualize attacks on a global map.
 
 ---
 
