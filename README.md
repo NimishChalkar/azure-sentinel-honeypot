@@ -1,3 +1,5 @@
+# Azure Sentinel Honeypot
+
 ## 📌 Overview
 This project demonstrates the creation of a cloud-based honeypot using **Azure Sentinel** and **Log Analytics Workspace** to detect and visualize brute-force RDP login attempts in real-time.
 
